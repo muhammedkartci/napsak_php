@@ -6,13 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
     <link rel="icon" href="napsak-logo.svg" type="image/x-icon" />
-    <title>Napsak | AMEAN Danışmanlık</title>
+    <title>N'apsak | AMEAN Danışmanlık</title>
 </head>
 <body>
     <div class="container">
         <div class="main">
             <div class="logo">
-                <img class="img" src="napsak-logo.svg" alt="">
+                <img class="img" src="amean-logo.png" alt="">
             </div>
             <div class="text"></div>
             <div class="napsak-button">
